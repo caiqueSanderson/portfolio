@@ -1,8 +1,14 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website criado de forma totalmente a dedo, utilizando a caracteristica dos componentes do React para manutenção e inserção de novos projetos com facilidade.
 
-Currently, two official plugins are available:
+Ferramentas Utilizadas:
+    React
+    JavaScript
+    HTML
+    CSS
+    Git
+    GitHub
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+<!-- <a href="https://br.freepik.com/vetores-gratis/uma-letra-colorida-com-um-fundo-preto_40743006.htm#fromView=search&page=1&position=13&uuid=800e43e8-dbdf-4314-a3d9-fcb6ee14b4bb">Imagem de AndreaCharlesta no Freepik</a> -->
