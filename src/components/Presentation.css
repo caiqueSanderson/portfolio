@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+/* Estilizaçoes gerais */
+.bold {
+    font-weight: bold;
+}
+
 .container_initial {
     background-color: #000000;
 }
@@ -39,6 +44,10 @@ header > p{
     font-weight: 400;
 }
 
-.link img {
-    height: 20px;
+.icons_contact {
+    max-height: 20px;
+}
+
+.text h1{
+    font-weight: 100;
 }
