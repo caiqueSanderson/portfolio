@@ -4,7 +4,7 @@ export default function Presentation(){
     return(
         <>
             <div className="container_initial">
-                <header>
+                <nav>
                     <p>sanderson.dev</p>
                     <div className="links">
                         <a href="#">projetos</a>
@@ -12,7 +12,7 @@ export default function Presentation(){
                         <a href="www.linkedin.com/in/caique-sanderson-de-sá-borges-262545237"><img className="icons_contact" src="public/linkedin.svg" alt="Logo Linkedin" /></a>
                         <a href="https://github.com/caiqueSanderson"><img className="icons_contact" src="public/github.svg" alt="Logo Github" /></a>
                     </div>
-                </header>
+                </nav>
                 <div className="text">
                     <h2>Hello world!</h2>
                     <h1>Meu nome é <span className="bold">Caique Sanderson</span></h1>

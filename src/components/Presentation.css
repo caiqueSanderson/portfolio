@@ -7,18 +7,25 @@
 
 .container_initial {
     background-color: #000000;
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
-header {
+nav {
     font-family: "Montserrat", sans-serif;
 
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;
+    /* align-items: center; */
 }
 
-header > p{
+nav > p{
     font-size: 1.2rem;
     font-weight: 500;
 
@@ -46,6 +53,11 @@ header > p{
 
 .icons_contact {
     max-height: 20px;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
 }
 
 .text h1{
