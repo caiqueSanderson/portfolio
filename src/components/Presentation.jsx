@@ -14,9 +14,9 @@ export default function Presentation(){
                     </div>
                 </nav>
                 <div className="text">
-                    <h2>Hello world!</h2>
-                    <h1>Meu nome é <span className="bold">Caique Sanderson</span></h1>
-                    <p>Sou um &lt; desenvolvedor / &gt;</p>
+                    <h2 className="text_item">Hello world!</h2>
+                    <h1 className="text_item">Meu nome é <span className="bold">Caique Sanderson</span></h1>
+                    <p className="text_item">Sou um &lt; desenvolvedor / &gt;</p>
                 </div>
             </div>
         </>

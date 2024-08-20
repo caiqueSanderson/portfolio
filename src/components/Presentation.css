@@ -60,6 +60,10 @@ nav > p{
     flex-direction: column;
 }
 
-.text h1{
+.text h1 {
     font-weight: 100;
+}
+
+.text_item {
+    margin-bottom: 10px;
 }

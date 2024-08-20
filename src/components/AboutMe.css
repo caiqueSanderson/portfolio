@@ -19,7 +19,9 @@
 
     margin-bottom: 1rem;
 }
-
+.description_link:link {
+    color: whitesmoke;
+}
 .softSkills {
     margin-top: 10px;
 
