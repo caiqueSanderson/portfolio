@@ -1,5 +1,5 @@
 import "./AboutMe.css";
-import Cards from "./cards/Cards";
+import Cards from "../cards/Cards";
 
 export default function AboutMe(){
     return(

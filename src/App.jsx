@@ -1,8 +1,8 @@
 import './App.css'
 
-import Presentation from './components/Presentation';
-import AboutMe from './components/AboutMe';
-import Tools from './components/Tools';
+import Presentation from './components/Component_presentation/Presentation';
+import AboutMe from './components/Component_about/AboutMe';
+import Tools from './components/Component_tools/Tools';
 
 export default function App() {
   return (
@@ -11,6 +11,9 @@ export default function App() {
         <Presentation/>
         <AboutMe/>
         <Tools/>
+      </div>
+      <div className="container_projects">
+        
       </div>
     </>
   )

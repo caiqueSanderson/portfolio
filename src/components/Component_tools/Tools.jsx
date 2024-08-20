@@ -1,4 +1,4 @@
-import Cards from "./cards/Cards";
+import Cards from "../cards/Cards";
 import "./Tools.css";
 
 export default function Tools(){
