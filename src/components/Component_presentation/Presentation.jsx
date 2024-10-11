@@ -1,5 +1,7 @@
 import "./Presentation.css";
 
+import { FaGithub, FaLinkedinIn } from "react-icons/fa";
+
 export default function Presentation(){
     return(
         <>
@@ -9,8 +11,8 @@ export default function Presentation(){
                     <div className="links">
                         <a href="#">projetos</a>
                         <a href="#">cv</a>
-                        <a href="www.linkedin.com/in/caique-sanderson-de-sá-borges-262545237"><img className="icons_contact" src="public/linkedin.svg" alt="Logo Linkedin" /></a>
-                        <a href="https://github.com/caiqueSanderson"><img className="icons_contact" src="public/github.svg" alt="Logo Github" /></a>
+                        <a href="www.linkedin.com/in/caique-sanderson-de-sá-borges-262545237"><FaLinkedinIn className="icons_contact" /></a>
+                        <a href="https://github.com/caiqueSanderson"><FaGithub className="icons_contact" /></a>
                     </div>
                 </nav>
                 <div className="text">
