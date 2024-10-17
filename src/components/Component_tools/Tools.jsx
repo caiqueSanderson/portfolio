@@ -1,5 +1,6 @@
 import Cards from "../cards/Cards";
 import "./Tools.css";
+import { FaPython } from "react-icons/fa6";
 
 export default function Tools(){
     return(
@@ -10,13 +11,13 @@ export default function Tools(){
                 <span className="bold">Ferramentas</span>
             </header>
             <div className="cards_tools">
-                <Cards image="public/javascript.svg" title="JavaScript"/>
-                <Cards image="public/react.svg" title="React"/>
-                <Cards image="public/python.svg" title="Python"/>
-                <Cards image="public/sql.svg" title="SQL"/>
-                <Cards image="public/html.svg" title="HTML5"/>
-                <Cards image="public/css.svg" title="CSS3"/>
-                <Cards image="public/git.svg" title="Git"/>
+                <Cards image="./javascript.svg" title="JavaScript"/>
+                <Cards image="./react.svg" title="React"/>
+                <Cards image="./python.svg" title="Python"/>
+                <Cards image="./sql.svg" title="SQL"/>
+                <Cards image="./html.svg" title="HTML5"/>
+                <Cards image="./css.svg" title="CSS3"/>
+                <Cards image="./git.svg" title="Git"/>
             </div>
         </div>
         </>
