@@ -1,5 +1,5 @@
 import styles from "./AboutMe.module.css";
-import Cards from "../cards/Cards";
+import Cards from "../cards";
 
 export default function AboutMe(){
     return(
